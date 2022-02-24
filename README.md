@@ -5,8 +5,24 @@ IOS App Part 1 for Movies
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
+## Flix Part 2
 
+### User Stories
+
+#### REQUIRED (10pts)
+- [X] (5pts) User can tap a cell to see more details about a particular movie.
+- [X] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+![ezgif com-gif-maker-flixsterpt2](https://user-images.githubusercontent.com/75055276/155451176-8d4189f9-9943-4564-9538-93104770a926.gif)
+
+### Notes
+Describe any challenges encountered while building the app.
+- Configuring the tab layout took a bit of time
 ---
 
 ## Flix Part 1
@@ -26,4 +42,3 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### Notes
 Describe any challenges encountered while building the app.
 - Noting important recipes to remember for the future
-
